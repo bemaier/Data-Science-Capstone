@@ -1,0 +1,1 @@
+If you want to re-run the code, extract the "capstone_project" folder and place the capstone_final.R file and the folder in the same directory.
